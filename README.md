@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Vikas Kumar
 
-<!--
-**Vikas01-web/Vikas01-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 💼 Web Developer with 8 Months Experience
+- 🌱 Currently learning DSA and Advanced Python
+- 🔭 Building Cortovex
+- 🎯 Goal: Become a Software Engineer in an MNC
+- 📍 Delhi, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+- PHP
+- Python
+- JavaScript
+- MySQL
+- MongoDB
+- HTML5
+- CSS3
+- Git
+- GitHub
+
+---
+
+## 📌 Featured Projects
+
+### Cortovex
+WhatsApp-inspired messaging platform
+
+### AI StudentOS
+AI-powered education platform
+
+---
+
+## 📫 Contact
+
+Email: vikas7501kumar@gmail.com
+
+Portfolio:
+https://vikaskumar.fast-page.org/
