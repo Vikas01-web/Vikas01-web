@@ -8,7 +8,6 @@
 - 🎯 Goal: Become a Software Engineer in an MNC
 - 📍 Delhi, India
 
----
 
 ## 🛠 Tech Stack
 
